@@ -1,0 +1,16 @@
+"""  
+
+use this code to install all requirements for the program if it prodeces any errors 
+like no module named this....
+
+
+
+Libraries that have been used in the code....
+
+1. tkCalendar
+2. Pillow
+3. Python openCV
+
+
+
+"""
