@@ -289,7 +289,7 @@ class CompanyAdvertise(tk.Frame):
 	def openlink(self,link):
 		modifiers.open_new_tab(link)
 	def showPhone(self):
-		showinfo(title='Contact us',message='Use 8881868541 to call and Whatsapp also..')
+		showinfo(title='Contact us',message='Use 88888888 to call and Whatsapp also..')
 
 class basicUi(tk.Frame):
 	"""docstring for basicUi"""
